@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 15th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Stephen Putnal)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to teach us how to edit a Javascript calculator.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/StephenPutnal/lesson4_javascript1)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Calculating the percentage of each expense you have.)
+2. (Use of download.getElementId)
+3. (Added variables to the program.)
 
